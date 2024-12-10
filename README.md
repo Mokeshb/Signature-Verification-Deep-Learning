@@ -80,3 +80,8 @@ GPU Errors: Confirm TensorFlow recognizes your GPU.
 
 Conclusion:
 This project successfully demonstrates the integration of deep learning and digital forensics for signature verification. It provides a solid foundation for further research and development in fraud detection and document authentication systems.
+
+License:
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
